@@ -1,0 +1,105 @@
+# Typography 1
+
+Course material for _Typography 1 GDES-1015-004,_ an undergraduate course taught at OCAD University in the 2019 Winter semester.
+
+## Description
+
+- **Time:** Thursdays, 8:30am – 11:30am
+- **Location:**  Room 656-MCA, [100 McCaul Street/Sharp Centre](https://goo.gl/maps/FvQJx42HD262)
+- **Instructor:** [Garry Ing](https://garrying.com), [ging@faculty.ocadu.ca](mailto:ging@faculty.ocadu.ca)
+- **Office Hours:** Thursdays, 11:45am – 1:00pm, Room 620-MCA
+
+> This introductory studio course provides students with an understanding of the basic vocabulary, skills and use of letterforms and how they combine to form words, text and meaning. The anatomy and structure of letterforms and the formal relationships between them are considered. Students are exposed to a foundational understanding of current typographic classification, technology and systems. This course will develop the students' ability to explore and employ typography and is a first step toward developing typographic mastery. Students with credit in GDES-1015, GDES-1B17, GRPH-2A04 may not take this course for credit. —[OCAD U Course Catalogue, 2018](https://selfservice.ocadu.ca/Student/Courses)
+
+### License & Attribution
+
+- Source code is available under [GNU General Public License v3.0](./LICENSE)
+- Unless otherwise indicated, course content is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+
+___
+
+## Schedule
+
+### Week 1: Introduction
+
+Review topics that will be covered, expectations for participating in the class, methods to teaching and learning, and materials needed for the course. We will also begin with a basic introduction to the field of typography and the requirements for the first assignment.
+
+- **Presentations:**
+    - [Module 1: Preface](#)
+    - [Module 1.2: Introduction](#)
+    - [Module 1.3: Project 1](#)
+- **Assignments:**
+    - [Project 1](#)
+    - [Illustrator CC 2019 Essential Training](#)
+
+___
+
+### Week 2: Expressive Typography
+
+Continue an exploration of the expressive dimension of typography. Introduction to basic vocabulary for describing formal elements. In-class exercise and desk crits will be conducted.
+
+___
+
+### Week 3: Space
+
+TBD
+
+___
+
+### Week 4: Project 1 Presentations
+
+TBD
+
+___
+
+### Week 5: Instrumental Typography
+
+TBD
+
+___
+
+### Week 6: Visual Order
+
+TBD
+
+___
+
+### Week 7: Study Break—No Class
+
+TBD
+
+___
+
+### Week 8: Complexity, Hybridity, Diversity
+
+TBD
+
+___
+
+### Week 9: Project 2 Presentations
+
+TBD
+
+___
+
+### Week 10: Typography for Screens
+
+TBD
+
+___
+
+### Week 11: Web Typography
+
+TBD
+
+___
+
+### Week 12: Web Technologies
+
+TBD
+
+___
+
+### Week 13: Project 3 Presentations
+
+You will present your final work for Project 3 to the class and provide feedback to your peers. We will also reflect on the semester and what to expect in other Typography courses.
