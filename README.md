@@ -13,6 +13,7 @@ Course material for _Typography 1 GDES-1015-004,_ an undergraduate course taught
 
 ### License & Attribution
 
+- Original outline by Patricio Davila
 - Source code is available under [GNU General Public License v3.0](./LICENSE)
 - Unless otherwise indicated, course content is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 
