@@ -39,65 +39,75 @@ ___
 
 Continue an exploration of the expressive dimension of typography. Introduction to basic vocabulary for describing formal elements. In-class exercise and desk crits will be conducted.
 
+- **Presentations:**
+    - [Module 2: Typographic Anatomy](#)
+    - [Module 2.2: Parts of a Letter](#)
+- **Assignments:**
+    - [Exercise 1—Make Glyphs, Explore Type Anatomy](#)
+
 ___
 
 ### Week 3: Space
 
-TBD
+We will look at positive and negative space as it applies to the micro to mid level of design — letterform, word, sentence, paragraph composition. In-class exercise and desk crits will be conducted.
 
 ___
 
 ### Week 4: Project 1 Presentations
 
-TBD
+You will present your final work for Project 1 to the class and provide feedback to your peers. We will also look at the next major assignment.
+
+- **Assignments:**
+    - [Project 2](#)
 
 ___
 
 ### Week 5: Instrumental Typography
 
-TBD
+As a contrast to expressive typography, we will look at how instrumental typography attempts to fulfill another set of issues. We will also look at how space works at a macro level to create visual order and aid navigation. In-class exercise and desk crits will be conducted.
 
 ___
 
 ### Week 6: Visual Order
 
-TBD
+We will continue our exploration of typography in terms of space and arrangement in order achieve specific ends. In-class exercise and desk crits will be conducted.
 
 ___
 
 ### Week 7: Study Break—No Class
 
-TBD
-
 ___
 
 ### Week 8: Complexity, Hybridity, Diversity
 
-TBD
+We will focus on how spatial arrangement of typographic elements can be used to manage complexity. We also look at methods for managing the process of designing more complex information. In-class exercise and desk crits will be conducted.
 
 ___
 
 ### Week 9: Project 2 Presentations
 
-TBD
+You will present your final work for Project 2 to the class and provide feedback to your peers. We will also look at the next major assignment.
+
+- **Assignments:**
+    - [Project 3](#)
 
 ___
 
 ### Week 10: Typography for Screens
 
-TBD
+We will look at how typography is applied to screens. The variety of screen formats present specific technical issues that will discussed. In-class exercise and desk crits will be conducted.
 
 ___
 
 ### Week 11: Web Typography
 
-TBD
+We will look at how web technologies such as HTML and CSS are used to design with typography. In-class exercise and desk crits will be conducted.
 
 ___
 
 ### Week 12: Web Technologies
 
-TBD
+We will continue to explore web technologies for embedding fonts and structuring information for online use. In-class exercise and desk crits will be conducted.
 
 ___
 
