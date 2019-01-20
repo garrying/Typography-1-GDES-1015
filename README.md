@@ -43,7 +43,7 @@ Continue an exploration of the expressive dimension of typography. Introduction 
     - [Module 2: Typographic Anatomy](#)
     - [Module 2.2: Parts of a Letter](#)
 - **Assignments:**
-    - [Exercise 1—Make Glyphs, Explore Type Anatomy](#)
+    - [Exercise 1—Make Glyphs, Explore Type Anatomy](./assignments/excersise-1-make-glyphs-explore-type-anatomy.md)
 
 ___
 
