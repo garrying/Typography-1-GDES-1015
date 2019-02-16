@@ -62,6 +62,8 @@ ___
 
 You will present your final work for Project 1 to the class and provide feedback to your peers. We will also look at the next major assignment.
 
+- **Presentations:**
+    - [Project 2](#)
 - **Assignments:**
     - [Project 2](#)
 
@@ -103,6 +105,8 @@ ___
 
 You will present your final work for Project 2 to the class and provide feedback to your peers. We will also look at the next major assignment.
 
+- **Presentations:**
+    - [Project 3](#)
 - **Assignments:**
     - [Project 3](#)
 
