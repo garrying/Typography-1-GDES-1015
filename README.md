@@ -51,6 +51,11 @@ ___
 
 We will look at positive and negative space as it applies to the micro to mid level of design — letterform, word, sentence, paragraph composition. In-class exercise and desk crits will be conducted.
 
+- **Presentations:**
+    - [Module 3: Formal Attributes](#)
+- **Assignments:**
+    - [Exercise 2—Formal Attributes](./assignments/exercise-2-formal-attributes.md)
+
 ___
 
 ### Week 4: Project 1 Presentations
@@ -66,11 +71,21 @@ ___
 
 As a contrast to expressive typography, we will look at how instrumental typography attempts to fulfill another set of issues. We will also look at how space works at a macro level to create visual order and aid navigation. In-class exercise and desk crits will be conducted.
 
+- **Presentations:**
+    - [Module 4: Contrast and Concord](#)
+- **Assignments:**
+    - [Exercise 3—Contrast and Concord](./assignments/exercise-3-contrast-concord.md)
+
 ___
 
 ### Week 6: Visual Order
 
 We will continue our exploration of typography in terms of space and arrangement in order achieve specific ends. In-class exercise and desk crits will be conducted.
+
+- **Presentations:**
+    - [Module 5: Texture and Value](#)
+- **Assignments:**
+    - [Exercise 4—Texture and Value](./assignments/exercise-4-texture-value.md)
 
 ___
 
