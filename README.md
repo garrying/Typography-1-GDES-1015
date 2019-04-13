@@ -99,6 +99,11 @@ ___
 
 We will focus on how spatial arrangement of typographic elements can be used to manage complexity. We also look at methods for managing the process of designing more complex information. In-class exercise and desk crits will be conducted.
 
+- **Presentations:**
+    - [Module 6: Grids and Style Systems](#)
+- **Assignments:**
+    - [Exercise 5—Styling, Structuring, and Systems](./assignments/exercise-5-styling-structuring-systems.md)
+
 ___
 
 ### Week 9: Project 2 Presentations
@@ -116,11 +121,21 @@ ___
 
 We will look at how typography is applied to screens. The variety of screen formats present specific technical issues that will discussed. In-class exercise and desk crits will be conducted.
 
+- **Presentations:**
+    - [Module 7: Type for Screens](#)
+- **Assignments:**
+  - [Exercise 6—Semantics and Encoding](./assignments/exercise-6-semantics-encodin.md)
+
 ___
 
 ### Week 11: Web Typography
 
 We will look at how web technologies such as HTML and CSS are used to design with typography. In-class exercise and desk crits will be conducted.
+
+- **Presentations:**
+    - [Module 8: Syntactic Styling](#)
+- **Assignments:**
+  - [Exercise 7—Syntactic Styling](./assignments/exercise-7-syntatic-styling.md)
 
 ___
 
@@ -128,8 +143,14 @@ ___
 
 We will continue to explore web technologies for embedding fonts and structuring information for online use. In-class exercise and desk crits will be conducted.
 
+- **Assignments:**
+  - [Exercise 8—Iterating, Prototyping, Testing, and Revising](./assignments/exercise-8-iterating-prototyping-testing-revising.md)
+
 ___
 
 ### Week 13: Project 3 Presentations
 
 You will present your final work for Project 3 to the class and provide feedback to your peers. We will also reflect on the semester and what to expect in other Typography courses.
+
+- **Presentations:**
+    - [Critique Google Doc](https://docs.google.com/document/d/1zAoJYZVURqyN68Qr3ZHRDseyyzfi8Ax95rcDXzkwau8/edit?usp=sharing)
