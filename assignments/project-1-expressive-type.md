@@ -64,7 +64,7 @@ Developing ways of looking, working and describing are essential skills for a vi
 ## Schedule
 - **Week 01**
     - Introduction to project
-    - Complete [Adobe Illustrator CC Basics module (Lynda.com)](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2019-Essential-Training/756294-2.html?org=ocadu.ca)
+    - Complete [Adobe Illustrator CC Basics module (Lynda.com)](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2019-Essential-Training/756294-2.html)
 - **Week 02**
     - Present work in progress at desk crit
     - Short lecture on classifying type

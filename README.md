@@ -30,8 +30,8 @@ Review topics that will be covered, expectations for participating in the class,
     - [Module 1.2: Introduction](#)
     - [Module 1.3: Project 1](#)
 - **Assignments:**
-    - [Project 1](#)
-    - [Illustrator CC 2019 Essential Training](#)
+    - [Project 1—Expressive Type](./assignments/project-1-expressive-type.md)
+    - [Illustrator CC 2019 Essential Training](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2019-Essential-Training/756294-2.html)
 
 ___
 
@@ -65,7 +65,7 @@ You will present your final work for Project 1 to the class and provide feedback
 - **Presentations:**
     - [Project 2](#)
 - **Assignments:**
-    - [Project 2](#)
+    - [Project 2—Instrumental Type](./assignments/project-2-instrumental-type.md)
 
 ___
 
@@ -113,7 +113,7 @@ You will present your final work for Project 2 to the class and provide feedback
 - **Presentations:**
     - [Project 3](#)
 - **Assignments:**
-    - [Project 3](#)
+    - [Project 3—Web Type](./assignments/project-3-web-type.md)
 
 ___
 
