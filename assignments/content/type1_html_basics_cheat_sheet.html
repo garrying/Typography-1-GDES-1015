@@ -1,0 +1,182 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>HTML Basics Cheat Sheet for Typography 1</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+      margin-left: 2em;
+      background-color: #2f3437;
+      color: #ebebeb;
+    }
+
+    code {
+      background-color: rgba(135,131,120,0.15);
+      font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+      color: #e95a5b;
+      border-radius: 3px;
+      font-size: 85%;
+      line-height: 1.45;
+      overflow: auto;
+      padding: 0.2em 0.4em;
+      display: inline-block;
+      vertical-align: middle;
+    }
+
+    h2 {
+      margin-top: 1.5em;
+      margin-bottom: .5em;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>HTML Basics Cheat Sheet for Typography 1</h1>
+
+  <h2>Basic HTML Structure</h2>
+  <code>
+    &lt;!doctype html&gt;<br>
+    &lt;html&gt;<br>
+    &nbsp;&nbsp;&lt;head&gt;<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&lt;title&gt;website title&lt;/title&gt;<br>
+    &nbsp;&nbsp;&lt;/head&gt;<br>
+    &nbsp;&nbsp;&lt;body&gt;<br>
+    &nbsp;&nbsp;&nbsp;&nbsp; . . . content of website . . . <br>
+    &nbsp;&nbsp;&lt;/body&gt;<br>
+    &lt;/html&gt;<br>
+  </code><br>
+  <p>
+    Each HTML document requires a set of tags that set up the basic aspects that will be read by the browser. Most HTML tags will be place between the <code class="example">&lt;body&gt;</code> tags.
+  </p>
+
+  <h2>Document Structure</h2>
+  <code>&lt;html&gt; . . . &lt;/html&gt;</code>
+  <p>contains all other HTML elements</p>
+  <code>&lt;head&gt; . . . &lt;/head&gt;</code>
+  <p>contains all the head elements (e.g. title, link, style)</p>
+  <code>&lt;title&gt; . . . &lt;/title&gt;</code>
+  <p>defines a title in the browser toolbar</p>
+  <code>&lt;body&gt; . . . &lt;/body&gt;</code>
+  <p>contains all the contents of an HTML document, such as text, links, images, tables, lists, etc.</p>
+
+  <h2>Document Info</h2>
+  <code>&lt;meta&gt;</code>
+  <p>typically specifies page description, keywords, author of the document, last modified, and other metadata</p>
+  <code>&lt;link&gt;</code>
+  <p>links to external style sheets</p>
+  <code>&lt;style&gt; . . . &lt;/style&gt;</code>
+  <p>defines style sheet inside the HTML document</p>
+  <code>&lt;script&gt; . . . &lt;/script&gt;</code>
+  <p>contains scripting statements, or it points to an external script file</p>
+
+  <h2>Formatting</h2>
+  <code>&lt;h1&gt; . . . &lt;/h1&gt;</code>
+  <p>heading (h1 for largest to h6 for smallest, eg h1, h2, h3, h4, h5, h6)</p>
+  <code>&lt;b&gt; . . . &lt;/b&gt;</code>
+  <p>bold text</p>
+  <code>&lt;i&gt; . . . &lt;/i&gt;</code>
+  <p>italic text</p>
+  <code>&lt;sup&gt; . . . &lt;/sup&gt;</code>
+  <p>superscript - smaller text placed below normal text</p>
+  <code>&lt;sub&gt; . . . &lt;/sub&gt;</code>
+  <p>subscript - smaller text placed below normal text</p>
+  <code>&lt;small&gt; . . . &lt;/small&gt;</code>
+  <p>small - fineprint size text</p>
+  <code>&lt;pre&gt; . . . &lt;/pre&gt;</code>
+  <p>pre-formatted Text</p>
+  <code>&lt;blockquote&gt; . . . &lt;/blockquote&gt;</code>
+  <p>text block quote</p>
+  <code>&lt;strong&gt; . . . &lt;/strong&gt;</code>
+  <p>strong - shown as bold in most browsers</p>
+  <code>&lt;em&gt; ... &lt;/em&gt;</code>
+  <p>emphasis - shown as italics in most browsers</p>
+
+  <h2>Section Divisions</h2>
+  <code>&lt;div&gt; . . . &lt;/div&gt;</code>
+  <p>division or section of page content</p>
+  <code>&lt;span&gt; . . . &lt;/span&gt;</code>
+  <p>section of text within other content</p>
+  <code>&lt;p&gt; . . . &lt;/p&gt;</code>
+  <p>paragraph of text</p>
+  <code>&lt;br&gt;</code>
+  <p>line break</p>
+  <code>&lt;hr&gt;</code>
+  <p>basic horizontal line</p>
+
+  <h2>Images</h2>
+  <code>&lt;img src=&quot;url&quot; alt=&quot;text&quot;&gt;</code>
+  <p>basic image<br>
+    (e.g. <code class="example">&lt;img src="https://www.ocadu.ca/logo.png" alt="ocadu logo"&gt;</code>)</p>
+
+  <h2>Linking Tags</h2>
+  <code>&lt;a href=&quot;url&quot;&gt; . . . &lt;/a&gt;</code>
+  <p>basic link<br>
+  (e.g. <code class="example">&lt;a href="https://www.ocadu.ca/"&gt;Visit our site&lt;/a&gt;</code>)</p>
+
+  <h2>Lists</h2>
+  <code>&lt;ol&gt; . . . &lt;/ol&gt;</code>
+  <p>Ordered List</p>
+  <code>&lt;ul&gt; . . . &lt;/ul&gt;</code>
+  <p>Un-ordered List</p>
+  <code>&lt;li&gt; . . . &lt;/li&gt;</code>
+  <p>List Item (within ordered or unordered)</p>
+  <code>&lt;dl&gt; . . . &lt;/dl&gt;</code>
+  <p>Definition List</p>
+  <code>&lt;dt&gt; . . . &lt;/dt&gt;</code>
+  <p>Term or phrase being defined</p>
+  <code>&lt;dd&gt; . . . &lt;/dd&gt;</code>
+  <p>Detailed Definition of term</p>
+
+
+  <h2>Semantic Elements</h2>
+
+  <code>&lt;header&gt; . . . &lt;/header&gt;</code>
+  <p>Specifies the webpage header. Could also be used for objects inside the webpage.</p>
+  <code>&lt;footer&gt; . . . &lt;/footer&gt;</code>
+  <p>Specifies the webpage footer. Could also be used for objects inside the webpage.</p>
+  <code>&lt;main&gt; . . . &lt;/main&gt;</code>
+  <p>Marks the main content of the webpage.</p>
+  <code>&lt;article&gt; . . . &lt;/article&gt;</code>
+  <p>Denotes an article.</p>
+  <code>&lt;aside&gt; . . . &lt;/aside&gt;</code>
+  <p>Denotes content displayed in a sidebar of the webpage.</p>
+  <code>&lt;section&gt; . . . &lt;/section&gt;</code>
+  <p>Specifies a particular section in the webpage.</p>
+  <code>&lt;figure&gt; . . . &lt;/figure&gt;</code>
+  <p>A tag reserved for figures (diagrams, charts) in HTML5.</p>
+  <code>&lt;figcaption&gt; . . . &lt;/figcaption&gt;</code>
+  <p>A description of the figure is placed inside these.</p>
+  <code>&lt;mark&gt; . . . &lt;/mark&gt;</code>
+  <p>Used to highlight a particular portion of the text.</p>
+  <code>&lt;nav&gt; . . . &lt;/nav&gt;</code>
+  <p>Navigation links for the user in a webpage.</p>
+  <code>&lt;menuitem&gt; . . . &lt;/menuitem&gt;</code>
+  <p>A particular item from a list or a menu.</p>
+  <code>&lt;time&gt; . . . &lt;/time&gt;</code>
+  <p>Tag for formatting date and time.</p>
+  <code>&lt;wbr&gt;</code>
+  <p>A line-break within the content.</p>
+
+
+  <h2>Commonly Used Special Characters</h2>
+  <code>&amp;quot;</code>
+  <p>Inch Marks &quot; . . . &rdquo;</p>
+  <code>&amp;ldquo; &amp;rdquo;</code>
+  <p>Quote Marks (left and right) &ldquo; . . . &rdquo;</p>
+  <code>&amp;lt; &amp;gt;</code>
+  <p>Less than and greater than sign &lt; &gt;</p>
+  <code>&amp;nbsp;</code>
+  <p>Non-breaking space</p>
+  <code>&amp;copy; &amp;trade; &amp;reg;</code>
+  <p>Copyright, trademark, registered symbols &copy; &trade; &reg;</p>
+  <code>&amp;amp;</code>
+  <p>Ampersand &amp;</p>
+  <code>&amp;Uuml;</code>
+  <p>At symbol @</p>
+  <code>&amp;ouml;</code>
+  <p>Small bullet &bull;</p>
+</body>
+</html>

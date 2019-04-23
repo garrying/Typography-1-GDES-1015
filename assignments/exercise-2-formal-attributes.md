@@ -3,7 +3,6 @@
 Using our learned language and having a keen eye to notice formal qualities of type are necessary to using type to express subtle qualities to a viewer. Language helps us identify important aspects of the visual field and helps us communicate to other designers intention, direction, etc. This exercise will ask you to review formal attributes described by Catherine Dixon and use them to describe the connotations of typographic forms.
 
 ## Learning Objectives
-
 - Identify and describe typographic form, proportion, measure and anatomy.
 - Employ typographic classification to make informed decisions when selecting and combining typefaces.
 
