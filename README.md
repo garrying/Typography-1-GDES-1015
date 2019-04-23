@@ -26,9 +26,9 @@ ___
 Review topics that will be covered, expectations for participating in the class, methods to teaching and learning, and materials needed for the course. We will also begin with a basic introduction to the field of typography and the requirements for the first assignment.
 
 - **Presentations:**
-    - [Module 1: Preface](#)
-    - [Module 1.2: Introduction](#)
-    - [Module 1.3: Project 1](#)
+    - [Module 1: Preface](./presentations/lecture-01-preface.pdf)
+    - [Module 1.2: Introduction](./presentations/lecture-01-intro.pdf)
+    - [Module 1.3: Project 1](./presentations/lecture-01-project-1.pdf)
 - **Assignments:**
     - [Project 1—Expressive Type](./assignments/project-1-expressive-type.md)
     - [Illustrator CC 2019 Essential Training](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2019-Essential-Training/756294-2.html)
@@ -40,8 +40,8 @@ ___
 Continue an exploration of the expressive dimension of typography. Introduction to basic vocabulary for describing formal elements. In-class exercise and desk crits will be conducted.
 
 - **Presentations:**
-    - [Module 2: Typographic Anatomy](#)
-    - [Module 2.2: Parts of a Letter](#)
+    - [Module 2: Typographic Anatomy](./presentations/lecture-02-typographic-anatomy.pdf)
+    - [Module 2.2: Parts of a Letter](./presentations/lecture-02-parts-of-a-letter.pdf)
 - **Assignments:**
     - [Exercise 1—Make Glyphs, Explore Type Anatomy](./assignments/exercise-1-make-glyphs-explore-type-anatomy.md)
 
@@ -52,7 +52,7 @@ ___
 We will look at positive and negative space as it applies to the micro to mid level of design — letterform, word, sentence, paragraph composition. In-class exercise and desk crits will be conducted.
 
 - **Presentations:**
-    - [Module 3: Formal Attributes](#)
+    - [Module 3: Formal Attributes](./presentations/lecture-03-formal-attributes.pdf)
 - **Assignments:**
     - [Exercise 2—Formal Attributes](./assignments/exercise-2-formal-attributes.md)
 
@@ -63,7 +63,7 @@ ___
 You will present your final work for Project 1 to the class and provide feedback to your peers. We will also look at the next major assignment.
 
 - **Presentations:**
-    - [Project 2](#)
+    - [Project 2](./presentations/lecture-04-project-1-crit.pdf)
 - **Assignments:**
     - [Project 2—Instrumental Type](./assignments/project-2-instrumental-type.md)
 
@@ -74,7 +74,7 @@ ___
 As a contrast to expressive typography, we will look at how instrumental typography attempts to fulfill another set of issues. We will also look at how space works at a macro level to create visual order and aid navigation. In-class exercise and desk crits will be conducted.
 
 - **Presentations:**
-    - [Module 4: Contrast and Concord](#)
+    - [Module 4: Contrast and Concord](./presentations/lecture-05-instrumental-type.pdf)
 - **Assignments:**
     - [Exercise 3—Contrast and Concord](./assignments/exercise-3-contrast-concord.md)
 
@@ -85,7 +85,7 @@ ___
 We will continue our exploration of typography in terms of space and arrangement in order achieve specific ends. In-class exercise and desk crits will be conducted.
 
 - **Presentations:**
-    - [Module 5: Texture and Value](#)
+    - [Module 5: Texture and Value](./presentations/lecture-06-texture-value.pdf)
 - **Assignments:**
     - [Exercise 4—Texture and Value](./assignments/exercise-4-texture-value.md)
 
@@ -100,7 +100,7 @@ ___
 We will focus on how spatial arrangement of typographic elements can be used to manage complexity. We also look at methods for managing the process of designing more complex information. In-class exercise and desk crits will be conducted.
 
 - **Presentations:**
-    - [Module 6: Grids and Style Systems](#)
+    - [Module 6: Grids and Style Systems](./presentations/lecture-07-grids-style-systems.pdf)
 - **Assignments:**
     - [Exercise 5—Styling, Structuring, and Systems](./assignments/exercise-5-styling-structuring-systems.md)
 
@@ -111,7 +111,7 @@ ___
 You will present your final work for Project 2 to the class and provide feedback to your peers. We will also look at the next major assignment.
 
 - **Presentations:**
-    - [Project 3](#)
+    - [Project 3](./presentations/lecture-08-project-2-crit.pdf)
 - **Assignments:**
     - [Project 3—Web Type](./assignments/project-3-web-type.md)
 
@@ -122,7 +122,7 @@ ___
 We will look at how typography is applied to screens. The variety of screen formats present specific technical issues that will discussed. In-class exercise and desk crits will be conducted.
 
 - **Presentations:**
-    - [Module 7: Type for Screens](#)
+    - [Module 7: Type for Screens](./presentations/lecture-09-type-for-screens.pdf)
 - **Assignments:**
   - [Exercise 6—Semantics and Encoding](./assignments/exercise-6-semantics-encoding.md)
 
@@ -133,7 +133,7 @@ ___
 We will look at how web technologies such as HTML and CSS are used to design with typography. In-class exercise and desk crits will be conducted.
 
 - **Presentations:**
-    - [Module 8: Syntactic Styling](#)
+    - [Module 8: Syntactic Styling](./presentations/lecture-10-syntactic-styling.pdf)
 - **Assignments:**
   - [Exercise 7—Syntactic Styling](./assignments/exercise-7-syntatic-styling.md)
 
@@ -153,4 +153,5 @@ ___
 You will present your final work for Project 3 to the class and provide feedback to your peers. We will also reflect on the semester and what to expect in other Typography courses.
 
 - **Presentations:**
+    - [Critique](./presentations/lecture-11-project-3.pdf)
     - [Critique Google Doc](https://docs.google.com/document/d/1zAoJYZVURqyN68Qr3ZHRDseyyzfi8Ax95rcDXzkwau8/edit?usp=sharing)
