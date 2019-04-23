@@ -1,0 +1,10 @@
+dist: xenial
+language: node_js
+before_script:
+  - nvm install 10.15.1
+  - nvm use 10.15.1
+  - npm install -g npm
+  - npm install -g markdown-link-check
+script: find . -name \*.md -exec markdown-link-check {} \;
+notifications:
+  email: false

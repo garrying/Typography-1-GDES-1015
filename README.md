@@ -43,7 +43,7 @@ Continue an exploration of the expressive dimension of typography. Introduction 
     - [Module 2: Typographic Anatomy](#)
     - [Module 2.2: Parts of a Letter](#)
 - **Assignments:**
-    - [Exercise 1—Make Glyphs, Explore Type Anatomy](./assignments/excersise-1-make-glyphs-explore-type-anatomy.md)
+    - [Exercise 1—Make Glyphs, Explore Type Anatomy](./assignments/exercise-1-make-glyphs-explore-type-anatomy.md)
 
 ___
 
@@ -124,7 +124,7 @@ We will look at how typography is applied to screens. The variety of screen form
 - **Presentations:**
     - [Module 7: Type for Screens](#)
 - **Assignments:**
-  - [Exercise 6—Semantics and Encoding](./assignments/exercise-6-semantics-encodin.md)
+  - [Exercise 6—Semantics and Encoding](./assignments/exercise-6-semantics-encoding.md)
 
 ___
 
